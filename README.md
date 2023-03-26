@@ -1,4 +1,4 @@
-#Kastia Website Solutions
+# Kastia Website Solutions
 
 Kastia is a website hosting agency based in Ireland that specializes in providing top-quality hosting services to small businesses. With a deep understanding of the unique hosting needs of small businesses, Kastia offers tailored hosting solutions that are both affordable and scalable. 
 
